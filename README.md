@@ -1,4 +1,5 @@
 # SpringBoot Graceful Terminator
+## Still in review. Will be added to public maven repository after final tests
 Graceful Shutdown Logic for SpringBoot
 
 Advanced SpringBoot Application.
